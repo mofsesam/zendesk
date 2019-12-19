@@ -1,5 +1,5 @@
 # Zendesk
-
+This branch is parked for now
 ### A connector for zendesk's API. 
 
 It can be used to import Tickets, create new Tickets and update existing Tickets.
